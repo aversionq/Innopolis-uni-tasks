@@ -1,0 +1,1 @@
+print(2 ** (int(input("Input number: ")) // 3))
